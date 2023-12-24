@@ -1,5 +1,4 @@
 Hello, I'm a junior Python developer passionate about creating innovative projects and refining my skills while seeking collaboration opportunities within developer communities.
-  Telegram: https://t.me/Cod3rX
 
 <!---
 7GitGuru/7GitGuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
