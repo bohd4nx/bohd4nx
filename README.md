@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @7GitGuru, a beginner Python developer crafting projects for my portfolio.
-- 👀 I’m interested in creating innovative projects and exploring best programming practices.
-- 🌱 I’m presently focused on honing my Python skills for versatile project development.
-- 💞️ I’m looking to collaborate on projects or joining developer communities!
-- 📫 How to reach me: 
+Hello, I'm a junior Python developer passionate about creating innovative projects and refining my skills while seeking collaboration opportunities within developer communities.
   Telegram: https://t.me/Cod3rX
 
 <!---
