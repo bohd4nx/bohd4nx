@@ -21,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7gitguru&show_icons=true&theme=dark&locale=en&layout=compact" alt="7gitguru" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7gitguru&show_icons=true&theme=dark&locale=en" alt="7gitguru" /></p>
+
+![There was a profile visitors counter at this place, but it doesn’t work again...](https://komarev.com/ghpvc/?username=7GitGuru&style=for-the-badg)
