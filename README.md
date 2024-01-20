@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bohdan</h1>
-<h3 align="center">Junior Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 - 🌱 I’m currently learning **the fundamentals of web development, diving into both front-end and back-end technologies.**
 
