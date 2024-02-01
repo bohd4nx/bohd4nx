@@ -51,7 +51,7 @@
 <div align="center">
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/bohd4n"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="150" alt="https://www.buymeacoffee.com/bohd4n" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/bohd4n"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="150" alt="https://www.buymeacoffee.com/bohd4n" /></a></p><br><br>
 </br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7GItGuru&label=Profile%20views&color=0e75b6&style=flat" alt="7GItGuru" /> </p>
