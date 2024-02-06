@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **Cod3rX@proton.me**
 
-- 📄 Know about my experiences **https://www.cod3rx.com/resume**
+- 📄 Know about my experiences [resume](https://www.cod3rx.com/resume)
 
 - ⚡ Fun fact: **I once coded an entire project fueled by nothing but coffee and the invincible power of late-night inspiration. ☕🌙 #CodeOverCoffee**
 
@@ -38,20 +38,25 @@
 
 ###
 <details>
-<summary><b>S𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜📊</b></summary></br>
+<summary><b>𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜📊</b></summary></br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=7gitguru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7gitguru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7gitguru&radius=16&theme=github-dark&area=true&hide_border=false&hide_title=false" height="250" alt="activity-graph graph"  />
 </div>
 
 </details>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">
+
+---
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bohd4n"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="150" alt="https://www.buymeacoffee.com/bohd4n" /></a></p><br><br>
 </br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=7GItGuru&label=Profile%20views&color=0e75b6&style=flat" alt="7GItGuru" /> </p>
+<a href="https://komarev.com/ghpvc/?username=7GitGuru">
+  <img align="right" src="https://komarev.com/ghpvc/?username=7GItGuru&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile visitor" />
+</a>
+
+
+[![wakatime](https://wakatime.com/badge/user/018d7e22-9a95-433a-bf5f-916fa8a41cbf.svg?style=plastic)](https://wakatime.com/@018d7e22-9a95-433a-bf5f-916fa8a41cbf)
+
