@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **Cod3rX@proton.me**
 
-- 📄 Know about my experiences [resume](https://www.cod3rx.com/resume)
+- 📄 Know about my experiences: **[resume](https://www.cod3rx.com/resume)**
 
 - ⚡ Fun fact: **I once coded an entire project fueled by nothing but coffee and the invincible power of late-night inspiration. ☕🌙 #CodeOverCoffee**
 
