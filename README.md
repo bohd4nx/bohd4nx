@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/07bohdan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="32" alt="instagram logo"  />
   </a>
-  <a href="https://discord.gg/cod3rx" target="_blank">
+  <a href="https://discordapp.com/users/990489498393641010" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44" height="32" alt="discord logo"  />
   </a>
   <a href="https://t.me/Cod3rX" target="_blank">
