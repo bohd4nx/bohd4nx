@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **the fundamentals of web development, diving into both front-end and back-end technologies.**
 
-- 📫 How to reach me: **Cod3rX@proton.me**
+- 📫 How to reach me: **Bohd4n@proton.me**
 
 - 📄 Know about my experiences: **[resume](https://www.cod3rx.com/resume)**
 
