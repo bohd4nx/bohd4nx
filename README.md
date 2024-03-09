@@ -17,10 +17,10 @@
   <a href="https://discordapp.com/users/990489498393641010" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44" height="32" alt="discord logo"  />
   </a>
-  <a href="https://t.me/Cod3rX" target="_blank">
+  <a href="https://t.me/+88806532497" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="44" height="32" alt="telegram logo"  />
   </a>
-  <a href="mailto:Cod3rX@proton.me" target="_blank">
+  <a href="mailto:Bohd4n@proton.me" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="32" alt="gmail logo"  />
   </a>
 </div>
