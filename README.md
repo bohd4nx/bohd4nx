@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: **I once coded an entire project fueled by nothing but coffee and the invincible power of late-night inspiration. ☕🌙 #CodeOverCoffee**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <div align="left">
   <a href="https://www.instagram.com/07bohdan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="32" alt="instagram logo"  />
@@ -24,7 +24,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="32" alt="gmail logo"  />
   </a>
 </div>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools: </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
@@ -38,10 +38,10 @@
 
 ###
 <details>
-<summary><b>𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜📊</b></summary></br>
+<summary><b>Statistics: </b></summary></br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7gitguru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=7gitguru&hide=contribs,prs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7gitguru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -49,7 +49,7 @@
 
 ---
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support: </h3>
 <p><a href="https://www.buymeacoffee.com/bohd4n"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="150" alt="https://www.buymeacoffee.com/bohd4n" /></a></p><br><br>
 </br>
 
