@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bohdan</h1>
+<h1 align="center">Hi <img src="./src/wave.gif" width="30px">, I'm Bohdan</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
 - 🌱 I’m currently learning **the fundamentals of web development, diving into both front-end and back-end technologies.**
@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me: </h3>
 <div align="left">
-  <a href="https://www.instagram.com/07bohdan/" target="_blank">
+<!--   <a href="https://www.instagram.com/07bohdan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="32" alt="instagram logo"  />
-  </a>
+  </a> -->
   <a href="https://discordapp.com/users/990489498393641010" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44" height="32" alt="discord logo"  />
   </a>
@@ -26,14 +26,15 @@
 </div>
 <h3 align="left">Languages and Tools: </h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
 </div>
 
 ###
