@@ -15,13 +15,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="32" alt="instagram logo"  />
   </a> -->
   <a href="https://discordapp.com/users/990489498393641010" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44" height="32" alt="discord logo"  />
+    <img src="https://skillicons.dev/icons?i=discord" width="44" height="35" alt="discord logo"  />
   </a>
   <a href="https://t.me/+88806532497" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="44" height="32" alt="telegram logo"  />
+    <img src="https://skillicons.dev/icons?i=telegram" width="44" height="35" alt="telegram logo"  />
   </a>
   <a href="mailto:Bohd4n@proton.me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="32" alt="gmail logo"  />
+    <img src="https://skillicons.dev/icons?i=gmail" width="44" height="35" alt="gmail logo"  />
   </a>
 </div>
 <h3 align="left">Languages and Tools: </h3>
