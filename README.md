@@ -11,30 +11,20 @@
 
 <h3 align="left">Connect with me: </h3>
 <div align="left">
-<!--   <a href="https://www.instagram.com/07bohdan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="32" alt="instagram logo"  />
-  </a> -->
   <a href="https://discordapp.com/users/990489498393641010" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="44" height="35" alt="discord logo"  />
   </a>
   <a href="https://t.me/+88806532497" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" width="44" height="35" alt="telegram logo"  />
+    <img src="https://skillicons.dev/icons?i=" width="44" height="35" alt="telegram logo"  />
   </a>
   <a href="mailto:Bohd4n@proton.me" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="44" height="35" alt="gmail logo"  />
   </a>
 </div>
+
 <h3 align="left">Languages and Tools: </h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=py,nodejs,mysql,react,tailwind,js,git,html,css" height="35" alt="programming lauguages"  />
 </div>
 
 ###
