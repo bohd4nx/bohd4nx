@@ -1,11 +1,11 @@
-<h1 align="center">Hi <img src="./src/wave.gif" width="30px">, I'm Bohdan</h1>
+<h1 align="center">Hi <img src="./src/wave.gif" width="30px">, I'm Bohdan 👾</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
 - 🌱 I’m currently learning **the fundamentals of web development, diving into both front-end and back-end technologies.**
 
 - 📫 How to reach me: **Bohd4n@proton.me**
 
-- 📄 Know about my experiences: **[resume](https://www.cod3rx.com/resume)**
+- 📄 Know about my experiences: **[resume](https://www.bohd4n.dev/resume)**
 
 - ⚡ Fun fact: **I once coded an entire project fueled by nothing but coffee and the invincible power of late-night inspiration. ☕🌙 #CodeOverCoffee**
 
@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=discord" width="44" height="35" alt="discord logo"  />
   </a>
   <a href="https://t.me/+88806532497" target="_blank">
-    <img src="https://skillicons.dev/icons?i=" width="44" height="35" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="44" height="35" alt="telegram logo"  />
   </a>
   <a href="mailto:Bohd4n@proton.me" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="44" height="35" alt="gmail logo"  />
@@ -32,11 +32,10 @@
 <summary><b>Statistics: </b></summary></br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7gitguru&hide=prs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7gitguru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bohd4nx&hide=prs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bohd4nx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   
 </div>
-
 
 </details>
 
@@ -46,8 +45,8 @@
 <p><a href="https://www.buymeacoffee.com/bohd4n"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="150" alt="https://www.buymeacoffee.com/bohd4n" /></a></p><br><br>
 </br>
 
-<a href="https://komarev.com/ghpvc/?username=7GitGuru">
-  <img align="right" src="https://komarev.com/ghpvc/?username=7GItGuru&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=bohd4nx">
+  <img align="right" src="https://komarev.com/ghpvc/?username=bohd4nx&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile visitor" />
 </a>
 
 
