@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="./src/wave.gif" width="30px">, I'm Bohdan 👾</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Python & Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **the fundamentals of web development, diving into both front-end and back-end technologies.**
 
@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=discord" width="44" height="35" alt="discord logo"  />
   </a>
   <a href="https://t.me/+88806532497" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="44" height="35" alt="telegram logo"  />
+    <img src="https://i.postimg.cc/mDrjb9BH/telegram.png" width="" height="35" alt="telegram logo"  />
   </a>
   <a href="mailto:Bohd4n@proton.me" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="44" height="35" alt="gmail logo"  />
@@ -24,7 +24,8 @@
 
 <h3 align="left">Languages and Tools: </h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,nodejs,mysql,react,tailwind,js,git,html,css" height="35" alt="programming lauguages"  />
+  <img src="https://skillicons.dev/icons?i=py,flask,nodejs,mysql,postgresql,react,tailwind,js,git,html,css,docker" height="35" alt="programming lauguages"  />
+  
 </div>
 
 ###
