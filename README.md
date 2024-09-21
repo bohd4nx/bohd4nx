@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="./src/wave.gif" width="30px">, I'm Bohdan 👾</h1>
 <h3 align="center">Python & Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **the fundamentals of web development, diving into both front-end and back-end technologies.**
+- ✨ I am currently **exploring new ways to create effective, scalable and creative solutions.**
 
-- 📫 How to reach me: **Bohd4n@proton.me**
+- ✉️ How to reach me: **Bohd4n@proton.me**
 
 - 📄 Know about my experiences: **[resume](https://www.bohd4n.dev/resume)**
 
-- ⚡ Fun fact: **I once coded an entire project fueled by nothing but coffee and the invincible power of late-night inspiration. ☕🌙 #CodeOverCoffee**
+- ⚡ Fun fact: **I once coded an entire project fueled by nothing but coffee and the invincible power of late-night inspiration. ☕🌙**
 
 <h3 align="left">Connect with me: </h3>
 <div align="left">
@@ -42,9 +42,6 @@
 
 ---
 
-<h3 align="left">Support: </h3>
-<p><a href="https://www.buymeacoffee.com/bohd4n"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="150" alt="https://www.buymeacoffee.com/bohd4n" /></a></p><br><br>
-</br>
 
 <a href="https://komarev.com/ghpvc/?username=bohd4nx">
   <img align="right" src="https://komarev.com/ghpvc/?username=bohd4nx&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile visitor" />
