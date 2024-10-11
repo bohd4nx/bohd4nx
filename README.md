@@ -5,16 +5,16 @@
 
 - ✉️ How to reach me: **Bohd4n@proton.me**
 
-- 📄 Know about my experiences: **[resume](https://www.bohd4n.dev/resume)**
-
+[//]: # (- 📄 Know about my experiences: **[resume]&#40;https://www.bohd4n.dev/resume&#41;**)
+  
 - ⚡ Fun fact: **I once coded an entire project fueled by nothing but coffee and the invincible power of late-night inspiration. ☕🌙**
 
 <h3 align="left">Connect with me: </h3>
 <div align="left">
-  <a href="https://discordapp.com/users/990489498393641010" target="_blank">
+  <a href="https://discord.com/users/990489498393641010" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="44" height="35" alt="discord logo"  />
   </a>
-  <a href="https://t.me/+88806532497" target="_blank">
+  <a href="https://t.me/+ntYgjJQU-p1hYTJh" target="_blank">
     <img src="https://i.postimg.cc/mDrjb9BH/telegram.png" width="" height="35" alt="telegram logo"  />
   </a>
   <a href="mailto:Bohd4n@proton.me" target="_blank">
@@ -25,20 +25,27 @@
 <h3 align="left">Languages and Tools: </h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py,flask,nodejs,mysql,postgresql,react,tailwind,js,git,html,css,docker" height="35" alt="programming lauguages"  />
-  
+
 </div>
 
-###
-<details>
-<summary><b>Statistics: </b></summary></br>
+[//]: # (###)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bohd4nx&hide=prs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bohd4nx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  
-</div>
+[//]: # (<details>)
 
-</details>
+[//]: # (<summary><b>Statistics: </b></summary></br>)
+
+[//]: # ()
+[//]: # (<div align="center">)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=bohd4nx&hide=prs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bohd4nx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />)
+
+[//]: # ()
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (</details>)
 
 ---
 
