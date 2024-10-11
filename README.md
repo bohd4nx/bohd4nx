@@ -5,9 +5,7 @@
 
 - ✉️ How to reach me: **Bohd4n@proton.me**
 
-[//]: # (- 📄 Know about my experiences: **[resume]&#40;https://www.bohd4n.dev/resume&#41;**)
-  
-- ⚡ Fun fact: **I once coded an entire project fueled by nothing but coffee and the invincible power of late-night inspiration. ☕🌙**
+- 🌐 Portfolio: **https://www.bohd4n.dev/**
 
 <h3 align="left">Connect with me: </h3>
 <div align="left">
