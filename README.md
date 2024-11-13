@@ -12,7 +12,7 @@
   <a href="https://discord.com/users/990489498393641010" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="44" height="35" alt="discord logo"  />
   </a>
-  <a href="https://t.me/+ntYgjJQU-p1hYTJh" target="_blank">
+  <a href="https://t.me/m/rIGIK9upYmNh" target="_blank">
     <img src="https://i.postimg.cc/mDrjb9BH/telegram.png" width="" height="35" alt="telegram logo"  />
   </a>
   <a href="mailto:Bohd4n@proton.me" target="_blank">
