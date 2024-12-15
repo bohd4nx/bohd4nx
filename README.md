@@ -1,11 +1,11 @@
-<h1 align="center">Hi <img src="./src/wave.gif" width="30px">, I'm Bohdan 👾</h1>
+<h1 align="center">Hi <img src="./src/wave.gif" width="30px">, I'm Bohdan</h1>
 <h3 align="center">Python & Full Stack Developer</h3>
 
 - ✨ I am currently **exploring new ways to create effective, scalable and creative solutions.**
 
 - ✉️ How to reach me: **Bohd4n@proton.me**
 
-- 🌐 Portfolio: **https://www.bohd4n.dev/**
+- 🌐 Website: **https://www.bohd4n.dev/**
 
 <h3 align="left">Connect with me: </h3>
 <div align="left">
@@ -23,7 +23,6 @@
 <h3 align="left">Languages and Tools: </h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py,flask,nodejs,mysql,postgresql,react,tailwind,js,git,html,css,docker" height="35" alt="programming lauguages"  />
-
 </div>
 
 [//]: # (###)
