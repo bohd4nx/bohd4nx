@@ -29,7 +29,7 @@
 
 <details>
 
-<summary><b>Statistics: </b></summary>
+<summary><b>Statistic: </b></summary>
 
 <div align="center">
 
