@@ -11,7 +11,11 @@
 
 <h3 align="left">Languages and Tools: </h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,flask,nodejs,mysql,postgresql,react,tailwind,js,git,html,css,docker" height="35" alt="programming lauguages"  />
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,nodejs,express,react,tailwind,astro,js,ts,html,css" height="35" alt="languages and frameworks"  />
+</div>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,aws,vercel,redis,sqlite,docker,mongodb" height="35" alt="databases and cloud"  />
+</div>
 </div>
 
 ####
