@@ -11,10 +11,10 @@
 
 <h3 align="left">Languages and Tools: </h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,nodejs,express,react" height="35" alt="backend and frameworks"  />
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,nodejs,express" height="35" alt="backend and frameworks"  />
 </div>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,astro,js,ts,html,css,sass" height="35" alt="frontend technologies"  />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,astro,js,ts,html,css" height="35" alt="frontend technologies"  />
 </div>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,aws,vercel,sqlite,docker,mongodb" height="35" alt="databases and cloud"  />
