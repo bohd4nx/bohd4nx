@@ -7,7 +7,7 @@
 
 - 🌐 Website: **[bohd4n.dev](https://www.bohd4n.dev/)**
 
-- 👨‍💻 Telegram: **[@bohd4nx](https://t.me/m/rIGIK9upYmNh)**
+- 👨‍💻 Telegram: **[@bohd4nx](https://t.me/bohd4nx)**
 
 <h3 align="left">Languages and Tools: </h3>
 <div align="left">
