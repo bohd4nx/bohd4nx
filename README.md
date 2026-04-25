@@ -1,6 +1,6 @@
 <h2 align="center">
   Hi <img src="./src/wave.gif" width="30px">, I'm Bohdan <br/>
-  Python & Full Stack Developer
+  Python Backend Developer
 </h2>
 
 ## Skills
